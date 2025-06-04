@@ -1,0 +1,7 @@
+D:\Learning\WebApplication1\bin\Publish\WebApplication1.exe
+D:\Learning\WebApplication1\bin\Publish\appsettings.Development.json
+D:\Learning\WebApplication1\bin\Publish\appsettings.json
+D:\Learning\WebApplication1\bin\Publish\WebApplication1.dll
+D:\Learning\WebApplication1\bin\Publish\WebApplication1.deps.json
+D:\Learning\WebApplication1\bin\Publish\WebApplication1.runtimeconfig.json
+D:\Learning\WebApplication1\bin\Publish\WebApplication1.pdb
